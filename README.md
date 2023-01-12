@@ -1,1 +1,1 @@
-# Bike-sales-Analysis-
+This is my project on data visulization using power BI desktop used some dax queries to manuplate create links between information clusters from the available data sets first MS sql server was used to explore data and then cleaned the unwanted junky data out and then imported the sql file to power BI desktop for analyzing and visualizing and created a power BI report on overall sales of various bikes,components and acessories related to motor vehiciles according to their regions power bi desktop is used for this project
